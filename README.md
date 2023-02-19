@@ -1,9 +1,7 @@
 # Business Insight from Clustering and Analyzing Customer Behaviours
-
 In this project, I'm a data scientist hired by a leading consumer credit bank. My job is to provide insights and advice on identifying customer segments through clustering. This will help the bank focus on retaining more valuable customers and solve their customer attrition problem.
 
 ## Industry Landscape for the Consumer Credit Business
-
 Acquiring new customers is a costly process, and retaining valuable customers is crucial for the success of the consumer credit business. By analyzing customer account activity and demographics through clustering, the bank can better understand which customers are most valuable and develop effective retention strategies.
 
 ## Project Goal
